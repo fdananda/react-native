@@ -19,6 +19,9 @@ const styles = StyleSheet.create({
         fontSize: 30,
         fontWeight: 'bold',
         fontFamily: 'Arial',  
+        backgroundColor: '#CCC',
+        padding: 20,
+        borderRadius: 15
     },
     referencia: {
         fontSize: 12,

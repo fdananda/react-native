@@ -7,3 +7,4 @@ Códigos React Native
 <li><b>Hooks - Use State</b> - (23/05/2023)<br>https://github.com/fdananda/react-native/tree/main/hooksUseState</li>
 <li><b>Configuração de ambiente Expo</b> - (24/05/2023)<br>https://github.com/fdananda/react-native/tree/main/react-native-ambiente-expo</li>
 <li><b>FlatList</b> - (25/05/2023)<br>https://github.com/fdananda/react-native/tree/main/flatlist</li>
+<li><b>Image</b> - (25/05/2023)<br>https://github.com/fdananda/react-native/tree/main/image</li>

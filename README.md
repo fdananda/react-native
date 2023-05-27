@@ -9,3 +9,4 @@ Códigos React Native
 <li><b>FlatList</b> - (25/05/2023)<br>https://github.com/fdananda/react-native/tree/main/flatlist</li>
 <li><b>Image</b> - (25/05/2023)<br>https://github.com/fdananda/react-native/tree/main/image</li>
 <li><b>Scrollview</b> - (26/05/2023)<br>https://github.com/fdananda/react-native/tree/main/scrollview</li>
+<li><b>Estrutura básica - componente de função</b> - (26/05/2023)<br>https://github.com/fdananda/react-native/tree/main/estrutura-basica-funcao</li>

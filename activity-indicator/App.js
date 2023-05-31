@@ -21,12 +21,9 @@ const App = () => {
       <Button title="Mostrar" disabled={mostrar} onPress={() => alterarMostrar(true)}/>
       <Button title="ESconder" disabled={!mostrar} onPress={() => alterarMostrar(false)} />
 
-      <TouchableOpacity onPress={alterarCarregamento}>
-        <View
-          style={{...styles.botao, backgroundColor: mostrar ? "gray" : "dodgerblue",
-          }}
-        >
-          {mostrar && <ActivityIndicator size="large" color="white" /> }
+      <TouchableOpacity onPress={alterarCarregamento} disabled={mostrar ? true : false}>
+        <View style={{...styles.botao, backgroundColor: mostrar ? "gray" : "dodgerblue"}}>
+          {mostrar && <ActivityIndicator size="large" color="white" disabled={!mostrar}/> }
           <Text style={styles.textoBotao}>
             {mostrar ? "  ....CARREGANDO" : "MOSTRAR (ActivityIndicator no botão)"}
           </Text>

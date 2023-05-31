@@ -23,7 +23,7 @@ const App = () => {
 
       <TouchableOpacity onPress={alterarCarregamento} disabled={mostrar ? true : false}>
         <View style={{...styles.botao, backgroundColor: mostrar ? "gray" : "dodgerblue"}}>
-          {mostrar && <ActivityIndicator size="large" color="white" disabled={!mostrar}/> }
+          {mostrar && <ActivityIndicator size="large" color="white"/> }
           <Text style={styles.textoBotao}>
             {mostrar ? "  ....CARREGANDO" : "MOSTRAR (ActivityIndicator no botão)"}
           </Text>

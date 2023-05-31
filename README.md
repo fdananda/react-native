@@ -11,3 +11,4 @@ Códigos React Native
 <li><b>Scrollview</b> - (26/05/2023)<br>https://github.com/fdananda/react-native/tree/main/scrollview</li>
 <li><b>Estrutura básica - componente de função</b> - (26/05/2023)<br>https://github.com/fdananda/react-native/tree/main/estrutura-basica-funcao</li>
 <li><b>Estrutura básica - componente de classe</b> - (26/05/2023)<br>https://github.com/fdananda/react-native/tree/main/estrutura-basica-classe</li>
+<li><b>Activity Indicator</b> - (31/05/2023)<br>https://github.com/fdananda/react-native/tree/main/activity-indicator</li>
